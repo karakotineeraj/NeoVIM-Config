@@ -1,0 +1,7 @@
+require('me.options')
+require('me.remap')
+require('me.packer')
+require('me.colorscheme')
+require('me.lsp-config')
+require('me.nvim-cmp')
+require('me.lualine-config')
